@@ -58,9 +58,9 @@ const App = () => {
         <h3 className="underline font-semibold mb-10">Software Projects</h3>
         
         <div className="w-60 hover:scale-125 transition-transform duration-200 ease-in-out shadow-lg flex flex-col items-center">
-          <h2 className="text-center text-l font-semibold ">Your Video Title</h2>
+          <h2 className="text-center text-l font-semibold ">Python Hand Tracking 2D Car Game</h2>
           <iframe 
-            className="mb-10" 
+            className="mb-5" 
             width="200" 
             height="215" 
             src="https://www.youtube.com/embed/videoseries?list=PL2OZcmnCOaEbuF-GAbj9JpyGhfFNoCJc3" 
@@ -68,7 +68,7 @@ const App = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>
           </iframe>
-          <p className="text-center text-sm text-gray-600">This is your video description, explaining more about the content shown in the video above.</p>
+          <p className="text-center text-sm text-gray-600">During my A-levels I wanted to create a project in which I found interesting. Due to my love for the xbox kinnect I decided that I wanted to do something similar. In this playlist it shows my progression in the project and the final product</p>
         </div>
         </section>
 
